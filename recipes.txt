@@ -8,6 +8,13 @@ pasta
 
 
 chicken
+
+beans
+pizza
+
 thanku
+
+
+done my changes
 
 final copy
